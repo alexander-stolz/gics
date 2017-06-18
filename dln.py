@@ -1,0 +1,4 @@
+from ctypes import *
+
+HDLN_ALL_DEVICES = 0
+HDLN_INVALID_HANDLE = 0xFFFF
